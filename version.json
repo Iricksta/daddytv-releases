@@ -1,18 +1,10 @@
 {
-  "versionCode": 334,
-  "versionName": "1.17",
+  "versionCode": 340,
+  "versionName": "1.20",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "Live now appears with Home — no more waiting for scores to load • Home always leads with the live rail and an Upcoming rail under it • new floating nav pill with the date and time beside Settings • live games stay Live until the whistle, and overtime reads OT rather than END • the app always picks the best English source • channel cards fit the TV row and nothing is cut off on TV or tablet • missing and dark channel logos replaced • search covers channels and sports • the update prompt keeps focus until you choose",
+  "notes": "Live TV opens from cache and refreshes in the background · failed streams retry in place · diagnostics export in Settings · dead Followed teams removed · update checksums required",
   "changes": [
-    "Live now appears with Home — no more waiting for scores to load",
-    "Home always leads with the live rail and an Upcoming rail under it",
-    "new floating nav pill with the date and time beside Settings",
-    "live games stay Live until the whistle, and overtime reads OT rather than END",
-    "the app always picks the best English source",
-    "channel cards fit the TV row and nothing is cut off on TV or tablet",
-    "missing and dark channel logos replaced",
-    "search covers channels and sports",
-    "the update prompt keeps focus until you choose"
+    "Live TV opens from cache and refreshes in the background · failed streams retry in place · diagnostics export in Settings · dead Followed teams removed · update checksums required"
   ],
-  "sha256": "51d9b1716cb0c7274c879a9f8985e7a070e0066f05ddd835c20f26fdd9421501"
+  "sha256": "513b6cacc818441fba084bb2bb17ecbbe57a4a9b6f6c565b56b3f2f876748a93"
 }
