@@ -1,10 +1,12 @@
 {
-  "versionCode": 340,
-  "versionName": "1.20",
+  "versionCode": 351,
+  "versionName": "1.21",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Live TV opens from cache and refreshes in the background \u00b7 failed streams retry in place \u00b7 diagnostics export in Settings \u00b7 dead Followed teams removed \u00b7 update checksums required",
+  "notes": "Renamed to DaddyTV, with new launcher, TV banner and in-app artwork • TV banner re-centred and enlarged • Installs over 1.20 and keeps your sign-in and settings",
   "changes": [
-    "Live TV opens from cache and refreshes in the background \u00b7 failed streams retry in place \u00b7 diagnostics export in Settings \u00b7 dead Followed teams removed \u00b7 update checksums required"
+    "Renamed to DaddyTV, with new launcher, TV banner and in-app artwork",
+    "TV banner re-centred and enlarged",
+    "Installs over 1.20 and keeps your sign-in and settings"
   ],
-  "sha256": "513b6cacc818441fba084bb2bb17ecbbe57a4a9b6f6c565b56b3f2f876748a93"
+  "sha256": "3d665d757f61aacefb569c8c6c65b7fbb58d2a51ffed07f2405edd2bf31b967c"
 }
