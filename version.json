@@ -1,10 +1,10 @@
 {
   "versionCode": 340,
   "versionName": "1.20",
-  "apkUrl": "https://raw.githubusercontent.com/Iricksta/house-tv-releases/main/app-release.apk",
-  "notes": "Live TV opens from cache and refreshes in the background · failed streams retry in place · diagnostics export in Settings · dead Followed teams removed · update checksums required",
+  "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
+  "notes": "Live TV opens from cache and refreshes in the background \u00b7 failed streams retry in place \u00b7 diagnostics export in Settings \u00b7 dead Followed teams removed \u00b7 update checksums required",
   "changes": [
-    "Live TV opens from cache and refreshes in the background · failed streams retry in place · diagnostics export in Settings · dead Followed teams removed · update checksums required"
+    "Live TV opens from cache and refreshes in the background \u00b7 failed streams retry in place \u00b7 diagnostics export in Settings \u00b7 dead Followed teams removed \u00b7 update checksums required"
   ],
   "sha256": "513b6cacc818441fba084bb2bb17ecbbe57a4a9b6f6c565b56b3f2f876748a93"
 }
