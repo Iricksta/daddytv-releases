@@ -1,14 +1,13 @@
 {
-  "versionCode": 352,
-  "versionName": "1.22",
+  "versionCode": 353,
+  "versionName": "1.23",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Always plays the best picture — 1080p or 720p, never 480p/540p • Sports shows today's finished games with scores, winners, crests and team colours • The NRL tab is now Rugby and covers every rugby competition • The info card stays up until the picture actually starts • Fixed the remote focus getting stuck on the top bar",
+  "notes": "Channel cards and the guide now use full-bleed artwork • 24/7 sports channels match the live-TV cards • Sports posters use the full-size original instead of the 300x168 thumbnail • Bundled high-resolution station marks and Guide artwork",
   "changes": [
-    "Always plays the best picture — 1080p or 720p, never 480p/540p",
-    "Sports shows today's finished games with scores, winners, crests and team colours",
-    "The NRL tab is now Rugby and covers every rugby competition",
-    "The info card stays up until the picture actually starts",
-    "Fixed the remote focus getting stuck on the top bar"
+    "Channel cards and the guide now use full-bleed artwork",
+    "24/7 sports channels match the live-TV cards",
+    "Sports posters use the full-size original instead of the 300x168 thumbnail",
+    "Bundled high-resolution station marks and Guide artwork"
   ],
-  "sha256": "b3cc7a81aa8c6ffedbfebd1657814e4d3664968eb069a4a197ff138931520683"
+  "sha256": "1a1dc54c0f0c89537c1679c97b6a3da989a6005cb6f14a96f5d78b87630f2a0c"
 }
