@@ -1,12 +1,14 @@
 {
-  "versionCode": 351,
-  "versionName": "1.21",
+  "versionCode": 352,
+  "versionName": "1.22",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Renamed to DaddyTV, with new launcher, TV banner and in-app artwork • TV banner re-centred and enlarged • Installs over 1.20 and keeps your sign-in and settings",
+  "notes": "Always plays the best picture — 1080p or 720p, never 480p/540p • Sports shows today's finished games with scores, winners, crests and team colours • The NRL tab is now Rugby and covers every rugby competition • The info card stays up until the picture actually starts • Fixed the remote focus getting stuck on the top bar",
   "changes": [
-    "Renamed to DaddyTV, with new launcher, TV banner and in-app artwork",
-    "TV banner re-centred and enlarged",
-    "Installs over 1.20 and keeps your sign-in and settings"
+    "Always plays the best picture — 1080p or 720p, never 480p/540p",
+    "Sports shows today's finished games with scores, winners, crests and team colours",
+    "The NRL tab is now Rugby and covers every rugby competition",
+    "The info card stays up until the picture actually starts",
+    "Fixed the remote focus getting stuck on the top bar"
   ],
-  "sha256": "3d665d757f61aacefb569c8c6c65b7fbb58d2a51ffed07f2405edd2bf31b967c"
+  "sha256": "b3cc7a81aa8c6ffedbfebd1657814e4d3664968eb069a4a197ff138931520683"
 }
