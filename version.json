@@ -1,14 +1,14 @@
 {
-  "versionCode": 356,
-  "versionName": "1.25",
+  "versionCode": 357,
+  "versionName": "1.26",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Guide keeps its place and opens at the live time edge • Schedule gaps show as No listing instead of collapsing time • Channel picker opens on the channel you are watching • Failed channels stop after two tries instead of looping • Sources are chosen by measured bitrate, not quality labels",
+  "notes": "Top bar uses the full DaddyTV logo • Player card shows start and end times in Melbourne time • Guide gaps no longer look like failed loads • Settings opens on your account row • Guide binds more channels through alias fixes",
   "changes": [
-    "Guide keeps its place and opens at the live time edge",
-    "Schedule gaps show as No listing instead of collapsing time",
-    "Channel picker opens on the channel you are watching",
-    "Failed channels stop after two tries instead of looping",
-    "Sources are chosen by measured bitrate, not quality labels"
+    "Top bar uses the full DaddyTV logo",
+    "Player card shows start and end times in Melbourne time",
+    "Guide gaps no longer look like failed loads",
+    "Settings opens on your account row",
+    "Guide binds more channels through alias fixes"
   ],
-  "sha256": "e7d0cfefc3907741e6ba1c3c6024778c3132d0685f875963a47192c28fe7209d"
+  "sha256": "1d712fed2bb1487cc057424c4366bebeb1e75f9375135fa6683e13880d3e6e2d"
 }
