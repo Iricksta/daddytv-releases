@@ -1,13 +1,13 @@
 {
-  "versionCode": 353,
-  "versionName": "1.23",
+  "versionCode": 355,
+  "versionName": "1.24",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Channel cards and the guide now use full-bleed artwork • 24/7 sports channels match the live-TV cards • Sports posters use the full-size original instead of the 300x168 thumbnail • Bundled high-resolution station marks and Guide artwork",
+  "notes": "Guide keeps its channel position when selected and opens at the live time edge • Native-only playback removes the provider web fallback and blocks pop-up ads • TimStreams added as a fourth live source with best-quality failover • Cleaner loading and guide placeholder states",
   "changes": [
-    "Channel cards and the guide now use full-bleed artwork",
-    "24/7 sports channels match the live-TV cards",
-    "Sports posters use the full-size original instead of the 300x168 thumbnail",
-    "Bundled high-resolution station marks and Guide artwork"
+    "Guide keeps its channel position when selected and opens at the live time edge",
+    "Native-only playback removes the provider web fallback and blocks pop-up ads",
+    "TimStreams added as a fourth live source with best-quality failover",
+    "Cleaner loading and guide placeholder states"
   ],
-  "sha256": "1a1dc54c0f0c89537c1679c97b6a3da989a6005cb6f14a96f5d78b87630f2a0c"
+  "sha256": "ffc644c7c6e6cc3f2c6637a33fcb36beb69d58b1d946d6563fd51ef74003f58e"
 }
