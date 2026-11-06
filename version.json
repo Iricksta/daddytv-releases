@@ -1,16 +1,18 @@
 {
-  "versionCode": 358,
-  "versionName": "1.27",
+  "versionCode": 362,
+  "versionName": "1.28",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Guide: ink-black programme blocks with a white focus ring, a ruler scale and a red playhead • Guide: one-line titles, and the Abante TV and Bilyonaryo logos are no longer cut off • Bilyonaryo News Channel now shows real listings • Home cards wear the guide's white focus edge and the in-player list scrolls without clipping • LIVE is a red dot and word, and channel zapping is gone so the picker is the only way through • Bigger 16:9 poster and one clean meta line on the live info card • Faster guide start, and a decoder fallback stops a codec quirk ending a tune",
+  "notes": "Guide: ink-black programme blocks with a white focus ring, a ruler scale and a red playhead • Guide: one-line titles, and the Abante TV and Bilyonaryo logos are no longer cut off • Bilyonaryo News Channel now shows real listings • Guide: a programme after a gap no longer puts a time inside its pill, so the title is never clipped • Guide: ruler times start on their ticks, so each hour sits over its own line • Home cards wear the guide's white focus edge and the in-player list scrolls without clipping • LIVE is a red dot and word, and channel zapping is gone so the picker is the only way through • Bigger 16:9 poster and one clean meta line on the live info card • Faster guide start, and a decoder fallback stops a codec quirk ending a tune",
   "changes": [
     "Guide: ink-black programme blocks with a white focus ring, a ruler scale and a red playhead",
     "Guide: one-line titles, and the Abante TV and Bilyonaryo logos are no longer cut off",
     "Bilyonaryo News Channel now shows real listings",
+    "Guide: a programme after a gap no longer puts a time inside its pill, so the title is never clipped",
+    "Guide: ruler times start on their ticks, so each hour sits over its own line",
     "Home cards wear the guide's white focus edge and the in-player list scrolls without clipping",
     "LIVE is a red dot and word, and channel zapping is gone so the picker is the only way through",
     "Bigger 16:9 poster and one clean meta line on the live info card",
     "Faster guide start, and a decoder fallback stops a codec quirk ending a tune"
   ],
-  "sha256": "52cd60fb4fd246cc984e65e32ca669f05657914e0479d2d0ed8461a59a943bab"
+  "sha256": "1d897a4be6b9d292539e45dbb869d6e2eed9ad560b7c3da9d732e892ee462d21"
 }
