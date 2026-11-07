@@ -1,10 +1,10 @@
 {
-  "versionCode": 380,
-  "versionName": "1.31",
+  "versionCode": 381,
+  "versionName": "1.32",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Update checks read the live release feed, so a new version is offered on the first check instead of after the one before it",
+  "notes": "Update checks ask the release API, so a newly published version is offered on the first check",
   "changes": [
-    "Update checks read the live release feed, so a new version is offered on the first check instead of after the one before it"
+    "Update checks ask the release API, so a newly published version is offered on the first check"
   ],
-  "sha256": "ea33c9f06c8816e78752439a8a34d60b9dde0fac88042d440c72608a87e5557f"
+  "sha256": "7edc596ea29b648e3b6c5219f4e5db52edaffb70f99480daaa3f667985468490"
 }
