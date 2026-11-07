@@ -1,17 +1,10 @@
 {
-  "versionCode": 376,
-  "versionName": "1.29",
+  "versionCode": 379,
+  "versionName": "1.30",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Sports: every theDaddy channel for a match is now a separate backup source • Sports: HD routes stay ahead of soft cuts and a dead 1080p route falls back to a 720p theDaddy feed • Sports: a failed feed is re-probed after 30 s, then 1, 2 and 3 minutes instead of being written off • Sports: backup failover picks the best working feed in either direction • Sports picker: whole match posters in 16:9 tiles with no cropping • Sports picker: rows show the live quarter/clock and score, refreshed every 15 s • Home: opening a live match now gives the same sport shortlist as the Sports page • Sports: non-English theDaddy feeds are filtered out while an English feed is listed",
+  "notes": "Live TV: a live match now opens with the same theDaddy backup sources as the Sports page",
   "changes": [
-    "Sports: every theDaddy channel for a match is now a separate backup source",
-    "Sports: HD routes stay ahead of soft cuts and a dead 1080p route falls back to a 720p theDaddy feed",
-    "Sports: a failed feed is re-probed after 30 s, then 1, 2 and 3 minutes instead of being written off",
-    "Sports: backup failover picks the best working feed in either direction",
-    "Sports picker: whole match posters in 16:9 tiles with no cropping",
-    "Sports picker: rows show the live quarter/clock and score, refreshed every 15 s",
-    "Home: opening a live match now gives the same sport shortlist as the Sports page",
-    "Sports: non-English theDaddy feeds are filtered out while an English feed is listed"
+    "Live TV: a live match now opens with the same theDaddy backup sources as the Sports page"
   ],
-  "sha256": "bbb5e3c747ccba7c9dc3fa12d8e278aa21b2dcaba1d89e4d0f648f99439eef17"
+  "sha256": "237b3387dc14584ec9982535937b8dfef43a2693f398528f75f417356a0cefc9"
 }
