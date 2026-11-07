@@ -1,10 +1,10 @@
 {
-  "versionCode": 379,
-  "versionName": "1.30",
+  "versionCode": 380,
+  "versionName": "1.31",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Live TV: a live match now opens with the same theDaddy backup sources as the Sports page",
+  "notes": "Update checks read the live release feed, so a new version is offered on the first check instead of after the one before it",
   "changes": [
-    "Live TV: a live match now opens with the same theDaddy backup sources as the Sports page"
+    "Update checks read the live release feed, so a new version is offered on the first check instead of after the one before it"
   ],
-  "sha256": "237b3387dc14584ec9982535937b8dfef43a2693f398528f75f417356a0cefc9"
+  "sha256": "ea33c9f06c8816e78752439a8a34d60b9dde0fac88042d440c72608a87e5557f"
 }
