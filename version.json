@@ -1,18 +1,17 @@
 {
-  "versionCode": 362,
-  "versionName": "1.28",
+  "versionCode": 376,
+  "versionName": "1.29",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Guide: ink-black programme blocks with a white focus ring, a ruler scale and a red playhead • Guide: one-line titles, and the Abante TV and Bilyonaryo logos are no longer cut off • Bilyonaryo News Channel now shows real listings • Guide: a programme after a gap no longer puts a time inside its pill, so the title is never clipped • Guide: ruler times start on their ticks, so each hour sits over its own line • Home cards wear the guide's white focus edge and the in-player list scrolls without clipping • LIVE is a red dot and word, and channel zapping is gone so the picker is the only way through • Bigger 16:9 poster and one clean meta line on the live info card • Faster guide start, and a decoder fallback stops a codec quirk ending a tune",
+  "notes": "Sports: every theDaddy channel for a match is now a separate backup source • Sports: HD routes stay ahead of soft cuts and a dead 1080p route falls back to a 720p theDaddy feed • Sports: a failed feed is re-probed after 30 s, then 1, 2 and 3 minutes instead of being written off • Sports: backup failover picks the best working feed in either direction • Sports picker: whole match posters in 16:9 tiles with no cropping • Sports picker: rows show the live quarter/clock and score, refreshed every 15 s • Home: opening a live match now gives the same sport shortlist as the Sports page • Sports: non-English theDaddy feeds are filtered out while an English feed is listed",
   "changes": [
-    "Guide: ink-black programme blocks with a white focus ring, a ruler scale and a red playhead",
-    "Guide: one-line titles, and the Abante TV and Bilyonaryo logos are no longer cut off",
-    "Bilyonaryo News Channel now shows real listings",
-    "Guide: a programme after a gap no longer puts a time inside its pill, so the title is never clipped",
-    "Guide: ruler times start on their ticks, so each hour sits over its own line",
-    "Home cards wear the guide's white focus edge and the in-player list scrolls without clipping",
-    "LIVE is a red dot and word, and channel zapping is gone so the picker is the only way through",
-    "Bigger 16:9 poster and one clean meta line on the live info card",
-    "Faster guide start, and a decoder fallback stops a codec quirk ending a tune"
+    "Sports: every theDaddy channel for a match is now a separate backup source",
+    "Sports: HD routes stay ahead of soft cuts and a dead 1080p route falls back to a 720p theDaddy feed",
+    "Sports: a failed feed is re-probed after 30 s, then 1, 2 and 3 minutes instead of being written off",
+    "Sports: backup failover picks the best working feed in either direction",
+    "Sports picker: whole match posters in 16:9 tiles with no cropping",
+    "Sports picker: rows show the live quarter/clock and score, refreshed every 15 s",
+    "Home: opening a live match now gives the same sport shortlist as the Sports page",
+    "Sports: non-English theDaddy feeds are filtered out while an English feed is listed"
   ],
-  "sha256": "1d897a4be6b9d292539e45dbb869d6e2eed9ad560b7c3da9d732e892ee462d21"
+  "sha256": "bbb5e3c747ccba7c9dc3fa12d8e278aa21b2dcaba1d89e4d0f648f99439eef17"
 }
