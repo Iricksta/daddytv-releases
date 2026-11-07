@@ -1,10 +1,11 @@
 {
-  "versionCode": 381,
-  "versionName": "1.32",
+  "versionCode": 382,
+  "versionName": "1.33",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Update checks ask the release API, so a newly published version is offered on the first check",
+  "notes": "Update checks ask the release API, so a newly published version is offered on the first check • Drop dead Sportsbite channels that had no logo and never played",
   "changes": [
-    "Update checks ask the release API, so a newly published version is offered on the first check"
+    "Update checks ask the release API, so a newly published version is offered on the first check",
+    "Drop dead Sportsbite channels that had no logo and never played"
   ],
-  "sha256": "7edc596ea29b648e3b6c5219f4e5db52edaffb70f99480daaa3f667985468490"
+  "sha256": "e425520ae12d60cd78d997c93e9da51e811afa4a713748c8fb06cefa6e972ca7"
 }
