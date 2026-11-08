@@ -1,11 +1,15 @@
 {
-  "versionCode": 384,
-  "versionName": "1.35",
+  "versionCode": 398,
+  "versionName": "1.36",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "F1 is back on the Sports board, after WNBA • Every F1 session card has the PPV route plus thedaddy backups",
+  "notes": "Sports board D-pad is instant now (1.2 s per press became about 50 ms) • Finished shows today's results with the winner's score, and Upcoming stays today plus tomorrow • Finished games play ESPN highlights in the app, with 10 s seek each way • MMA, Boxing and Wrestling tabs sit after NFL, with Boxing on Home • theDaddy source names are deduplicated and the Sources panel scrolls • the top pill floats over the page, and a fast OK opens a channel up to 3 s sooner",
   "changes": [
-    "F1 is back on the Sports board, after WNBA",
-    "Every F1 session card has the PPV route plus thedaddy backups"
+    "Sports board D-pad is instant now (1.2 s per press became about 50 ms)",
+    "Finished shows today's results with the winner's score, and Upcoming stays today plus tomorrow",
+    "Finished games play ESPN highlights in the app, with 10 s seek each way",
+    "MMA, Boxing and Wrestling tabs sit after NFL, with Boxing on Home",
+    "theDaddy source names are deduplicated and the Sources panel scrolls",
+    "the top pill floats over the page, and a fast OK opens a channel up to 3 s sooner"
   ],
-  "sha256": "217e310b05bb245fd19d6080baa737b57efbdd464f8c1d9ea723eea5ab3ec268"
+  "sha256": "5420d4dc9c615c49b22f7cb9023ca68679087e2363f6fcf61fafc425a3ac7da8"
 }
