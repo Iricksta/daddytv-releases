@@ -1,11 +1,13 @@
 {
-  "versionCode": 400,
-  "versionName": "1.37",
+  "versionCode": 407,
+  "versionName": "1.38",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "The update card now fits any window, so Update now is reachable on a phone and a TV • A long changelog scrolls inside the card instead of pushing the buttons off",
+  "notes": "Slow channels now show the channel's tile and “Tuning …” instead of a black screen while they connect • Cinemax and other theDaddy channels now play natively • A dead source now tries every available feed before saying the channel is offline • The guide returns to the last channel row, and a rebuffer keeps the last frame instead of flashing black",
   "changes": [
-    "The update card now fits any window, so Update now is reachable on a phone and a TV",
-    "A long changelog scrolls inside the card instead of pushing the buttons off"
+    "Slow channels now show the channel's tile and “Tuning …” instead of a black screen while they connect",
+    "Cinemax and other theDaddy channels now play natively",
+    "A dead source now tries every available feed before saying the channel is offline",
+    "The guide returns to the last channel row, and a rebuffer keeps the last frame instead of flashing black"
   ],
-  "sha256": "3798ac8ac97fbb6c0bd63dd39ce140ca704588dae87de38bd8dd860813584af4"
+  "sha256": "bac589007b951633e22c082f17be26c586833ec1ed689f2671061b23a51fefe6"
 }
