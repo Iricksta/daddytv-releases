@@ -1,14 +1,10 @@
 {
-  "versionCode": 414,
-  "versionName": "1.39",
+  "versionCode": 416,
+  "versionName": "1.40",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Live TV channels show the channel info card while connecting and close it after the picture starts • The Sports board no longer duplicates the same match • Scrolling to the bottom of the NBA board no longer crashes • Slow channels show the plain Connecting… screen while they tune • Opening the app no longer holds a dark splash",
+  "notes": "Guide previews no longer retry a dead channel and stay on the offline message instead of cycling through Connecting…",
   "changes": [
-    "Live TV channels show the channel info card while connecting and close it after the picture starts",
-    "The Sports board no longer duplicates the same match",
-    "Scrolling to the bottom of the NBA board no longer crashes",
-    "Slow channels show the plain Connecting… screen while they tune",
-    "Opening the app no longer holds a dark splash"
+    "Guide previews no longer retry a dead channel and stay on the offline message instead of cycling through Connecting…"
   ],
-  "sha256": "a2c1c394b2116bb2692c78408a7ddfd4f8cadfede7a8f7996ace9b15b8de9100"
+  "sha256": "7cbae1e53592350e336b4b473dffe83643be3c279ba6696441c30611b4e8bcb8"
 }
