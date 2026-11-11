@@ -1,13 +1,14 @@
 {
-  "versionCode": 407,
-  "versionName": "1.38",
+  "versionCode": 414,
+  "versionName": "1.39",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Slow channels now show the channel's tile and “Tuning …” instead of a black screen while they connect • Cinemax and other theDaddy channels now play natively • A dead source now tries every available feed before saying the channel is offline • The guide returns to the last channel row, and a rebuffer keeps the last frame instead of flashing black",
+  "notes": "Live TV channels show the channel info card while connecting and close it after the picture starts • The Sports board no longer duplicates the same match • Scrolling to the bottom of the NBA board no longer crashes • Slow channels show the plain Connecting… screen while they tune • Opening the app no longer holds a dark splash",
   "changes": [
-    "Slow channels now show the channel's tile and “Tuning …” instead of a black screen while they connect",
-    "Cinemax and other theDaddy channels now play natively",
-    "A dead source now tries every available feed before saying the channel is offline",
-    "The guide returns to the last channel row, and a rebuffer keeps the last frame instead of flashing black"
+    "Live TV channels show the channel info card while connecting and close it after the picture starts",
+    "The Sports board no longer duplicates the same match",
+    "Scrolling to the bottom of the NBA board no longer crashes",
+    "Slow channels show the plain Connecting… screen while they tune",
+    "Opening the app no longer holds a dark splash"
   ],
-  "sha256": "bac589007b951633e22c082f17be26c586833ec1ed689f2671061b23a51fefe6"
+  "sha256": "a2c1c394b2116bb2692c78408a7ddfd4f8cadfede7a8f7996ace9b15b8de9100"
 }
