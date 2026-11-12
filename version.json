@@ -1,10 +1,13 @@
 {
-  "versionCode": 416,
-  "versionName": "1.40",
+  "versionCode": 448,
+  "versionName": "1.41",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Guide previews no longer retry a dead channel and stay on the offline message instead of cycling through Connecting…",
+  "notes": "StreamFree is the second live sports route behind PPV and backs every sport on the Sports page, with a Sky Sports F1 card on the F1 tab • sports fixtures match on both team names, so 'at' and 'vs' rows are the same game • theDaddy sources are removed from Live TV and sports • tvnow leads the Live TV merge and competes on measured picture",
   "changes": [
-    "Guide previews no longer retry a dead channel and stay on the offline message instead of cycling through Connecting…"
+    "StreamFree is the second live sports route behind PPV and backs every sport on the Sports page, with a Sky Sports F1 card on the F1 tab",
+    "sports fixtures match on both team names, so 'at' and 'vs' rows are the same game",
+    "theDaddy sources are removed from Live TV and sports",
+    "tvnow leads the Live TV merge and competes on measured picture"
   ],
-  "sha256": "7cbae1e53592350e336b4b473dffe83643be3c279ba6696441c30611b4e8bcb8"
+  "sha256": "a8d97c7b0e816fbf7b19fc0f3d5724098f53fe18e8900e23ccfb9cf1c61c526f"
 }
