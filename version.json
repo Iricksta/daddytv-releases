@@ -1,11 +1,13 @@
 {
-  "versionCode": 451,
-  "versionName": "1.42",
+  "versionCode": 466,
+  "versionName": "1.43",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "A shaky start no longer drops a channel to 720p for the rest of the tune • the F1 24/7 channel stays on the F1 tab and no longer sits in the Live now rails",
+  "notes": "The guide is ready on the first launch instead of after a minute • A loading screen while the app starts • Channels rank by picture quality first, then bitrate, then stability • Scores refresh every 20 seconds",
   "changes": [
-    "A shaky start no longer drops a channel to 720p for the rest of the tune",
-    "the F1 24/7 channel stays on the F1 tab and no longer sits in the Live now rails"
+    "The guide is ready on the first launch instead of after a minute",
+    "A loading screen while the app starts",
+    "Channels rank by picture quality first, then bitrate, then stability",
+    "Scores refresh every 20 seconds"
   ],
-  "sha256": "5efbe5234b7937f167e9cae358eccd0ea9f2b43e6813c78452a35d0e292372be"
+  "sha256": "7d24992e058ac0f9ea5953ddb2b27e2a9a65e76458cec8d1a6949b99decaccca"
 }
