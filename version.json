@@ -1,13 +1,11 @@
 {
-  "versionCode": 466,
-  "versionName": "1.43",
+  "versionCode": 467,
+  "versionName": "1.44",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "The guide is ready on the first launch instead of after a minute • A loading screen while the app starts • Channels rank by picture quality first, then bitrate, then stability • Scores refresh every 20 seconds",
+  "notes": "Under-the-hood work on an extra live-TV source, held off for now • No visible changes in this build",
   "changes": [
-    "The guide is ready on the first launch instead of after a minute",
-    "A loading screen while the app starts",
-    "Channels rank by picture quality first, then bitrate, then stability",
-    "Scores refresh every 20 seconds"
+    "Under-the-hood work on an extra live-TV source, held off for now",
+    "No visible changes in this build"
   ],
-  "sha256": "7d24992e058ac0f9ea5953ddb2b27e2a9a65e76458cec8d1a6949b99decaccca"
+  "sha256": "fbd008ed51b4eb861f38c127346a055c7fd4e28e2ac8555df83bcac89d1515b5"
 }
