@@ -1,11 +1,13 @@
 {
-  "versionCode": 467,
-  "versionName": "1.44",
+  "versionCode": 469,
+  "versionName": "1.46",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Under-the-hood work on an extra live-TV source, held off for now • No visible changes in this build",
+  "notes": "Guide opens with listings already loaded • A picture grows out of the guide cell you tap • Back arrow on the offline panel • No logo flash when going full screen from a preview",
   "changes": [
-    "Under-the-hood work on an extra live-TV source, held off for now",
-    "No visible changes in this build"
+    "Guide opens with listings already loaded",
+    "A picture grows out of the guide cell you tap",
+    "Back arrow on the offline panel",
+    "No logo flash when going full screen from a preview"
   ],
-  "sha256": "fbd008ed51b4eb861f38c127346a055c7fd4e28e2ac8555df83bcac89d1515b5"
+  "sha256": "939924ca0889e318a9d8c5c315ad0bc0c0b7b2023d9e6ca4389c2fca1c220072"
 }
