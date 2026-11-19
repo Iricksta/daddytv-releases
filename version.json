@@ -1,13 +1,10 @@
 {
-  "versionCode": 469,
-  "versionName": "1.46",
+  "versionCode": 470,
+  "versionName": "1.47",
   "apkUrl": "https://raw.githubusercontent.com/Iricksta/daddytv-releases/main/app-release.apk",
-  "notes": "Guide opens with listings already loaded • A picture grows out of the guide cell you tap • Back arrow on the offline panel • No logo flash when going full screen from a preview",
+  "notes": "Full-screen exit arrow now hides with the info card",
   "changes": [
-    "Guide opens with listings already loaded",
-    "A picture grows out of the guide cell you tap",
-    "Back arrow on the offline panel",
-    "No logo flash when going full screen from a preview"
+    "Full-screen exit arrow now hides with the info card"
   ],
-  "sha256": "939924ca0889e318a9d8c5c315ad0bc0c0b7b2023d9e6ca4389c2fca1c220072"
+  "sha256": "9a170a83dcadb0690e3cf89f8dc2df53afaed1478df832eb0f2fb2d4bcac1728"
 }
